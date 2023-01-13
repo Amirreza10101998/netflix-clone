@@ -1,0 +1,51 @@
+body {
+    background-color: #141414;
+}
+
+.navbar {
+    background-color: #141414;
+}
+
+li {
+    cursor: pointer;
+}
+
+i {
+    cursor: pointer;
+}
+
+.btn-dark {
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 0%;
+}
+
+.icon {
+    display: table;
+    border: solid white;
+    width: 50px;
+}
+
+.icon:hover {
+    opacity: 0.6;
+
+}
+
+.bi-list {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.bi-plus-square {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.form-control {
+    width: 10px;
+}
+
+
+
